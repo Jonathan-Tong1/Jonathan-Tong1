@@ -3,25 +3,25 @@
 
 ## About Me
 
-Software Engineer with experience in Full Stack, Cloud, and Distributed Systems. Currently exploring Data Engineering and building tools that solve real problems.
+Software Engineer interested in Distributed Systems, Data Engineering, and Platform Engineering. I enjoy building scalable systems and solving complex technical problems.
 
 **Currently Building:**
-- **StreamShift** - CDC-based database migration tool for zero-downtime migrations using Debezium, Kafka, and Spring Boot
+- **StreamShift** - Zero-downtime database migration tool using CDC (Debezium, Kafka, Spring Boot, PostgreSQL)
 
-**Past Projects:**
-- Cloud-deployed full-stack applications
-- REST APIs with authentication and security
-- iOS mobile applications
-- Database migration and ETL tools
+**Previous Projects:**
+- **AuthNotes** - Secure cloud-hosted notes app deployed on AWS Elastic Beanstalk and RDS
+- **PaperTradeAPI** - Stock trading simulator with JWT authentication
+- **Audio Transcriber** - Transcription tool using OpenAI API
+- **iOS Calorie Tracker** - SwiftUI-based nutrition tracking app
 
-I love building complex systems and learning new technologies. Always open to interesting opportunities in distributed systems, data engineering, and platform engineering.
+Open to new opportunities in backend, data, and infrastructure roles.
 
-📧 Reach me at **j48tong@uwaterloo.ca**
+📧 **j48tong@uwaterloo.ca** | [LinkedIn](https://linkedin.com/in/jonathantong03)
 
 ## Tech Stack
 
-**Languages:** Java, Python, JavaScript/TypeScript, C#, Swift  
-**Backend:** Spring Boot, .NET, Node.js, REST APIs  
-**Data:** PostgreSQL, Kafka, Debezium, CDC  
-**Cloud & DevOps:** Docker, Kubernetes, AWS, CI/CD  
-**Frontend:** React, Angular, iOS (SwiftUI)
+**Languages:** Java, C#, JavaScript/TypeScript, Python, SQL, Swift  
+**Backend:** Spring Boot, .NET, Node.js  
+**Data & Streaming:** Kafka, Debezium, Google Pub/Sub, PostgreSQL, MySQL, Redis  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Azure DevOps  
+**Frontend:** React, Angular, Redux, Material UI, SwiftUI
