@@ -9,6 +9,7 @@ Software Engineer interested in Full Stack Development, Distributed Systems, Dat
 - **StreamShift** - Zero-downtime database migration tool using CDC (Debezium, Kafka, Spring Boot, PostgreSQL)
 
 **Previous Projects:**
+- **BetMetric** - Lightweight monorepo for sports betting analysis, identifying arbitrage and EV+ opportunities using a Node.js API with The Odds API and a planned Next.js/React dashboard.
 - **AuthNotes** - Secure cloud-hosted notes app deployed on AWS Elastic Beanstalk and RDS
 - **PaperTradeAPI** - Stock and crypto trading simulator with JWT auth and external API integrations
 - **Audio Transcriber** - Transcription tool using OpenAI API
