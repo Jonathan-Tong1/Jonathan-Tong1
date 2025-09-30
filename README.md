@@ -3,18 +3,18 @@
 
 ## About Me
 
-Software Engineer interested in Distributed Systems, Data Engineering, and Platform Engineering. I enjoy building scalable systems and solving complex technical problems.
+Software Engineer interested in Full Stack Development, Distributed Systems, Data Engineering, and Platform Engineering. I enjoy building scalable systems and solving complex technical problems.
 
 **Currently Building:**
 - **StreamShift** - Zero-downtime database migration tool using CDC (Debezium, Kafka, Spring Boot, PostgreSQL)
 
 **Previous Projects:**
 - **AuthNotes** - Secure cloud-hosted notes app deployed on AWS Elastic Beanstalk and RDS
-- **PaperTradeAPI** - Stock trading simulator with JWT authentication
+- **PaperTradeAPI** - Stock and crypto trading simulator with JWT auth and external API integrations
 - **Audio Transcriber** - Transcription tool using OpenAI API
 - **iOS Calorie Tracker** - SwiftUI-based nutrition tracking app
 
-Open to new opportunities in backend, data, and infrastructure roles.
+Open to new opportunities in full stack, backend, data, and infrastructure roles.
 
 📧 **j48tong@uwaterloo.ca** | [LinkedIn](https://linkedin.com/in/jonathantong03)
 
