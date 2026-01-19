@@ -5,17 +5,6 @@
 
 Software Engineer interested in Full Stack Development, Distributed Systems, Data Engineering, and Platform Engineering. I enjoy building scalable systems and solving complex technical problems.
 
-**Currently Building:**
-- **Postgres Backup Operator** - A Kubernetes operator that automates pg_dump backups of PostgreSQL to AWS S3 via custom resources, providing declarative and automated disaster recovery
-
-**Previous Projects:**
-- **StreamShift** - Zero-downtime database migration tool using CDC (Debezium, Kafka, Spring Boot, PostgreSQL)
-- **BetMetric** - Lightweight monorepo for sports betting analysis, identifying arbitrage and EV+ opportunities using a Node.js API with The Odds API and a planned Next.js/React dashboard
-- **AuthNotes** - Secure cloud-hosted notes app deployed on AWS Elastic Beanstalk and RDS
-- **PaperTradeAPI** - Stock and crypto trading simulator with JWT auth and external API integrations
-- **Audio Transcriber** - Transcription tool using OpenAI API
-- **iOS Calorie Tracker** - SwiftUI-based nutrition tracking app
-
 Open to new opportunities in full stack, backend, data, and infrastructure roles.
 
 📧 **j48tong@uwaterloo.ca** | [LinkedIn](https://linkedin.com/in/jonathantong03)
